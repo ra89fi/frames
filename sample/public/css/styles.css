@@ -1,0 +1,12 @@
+.item-links li {
+  border-right: 2px solid #eee;
+}
+
+.item-links li {
+  padding: 10px;
+}
+
+.item-links li:hover {
+  background: #eee;
+  cursor: pointer;
+}
