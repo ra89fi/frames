@@ -1,0 +1,16 @@
+{
+  "name": "frames",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Raihan <rfiroz.work@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build:dev": "webpack"
+  },
+  "dependencies": {
+    "babel-core": "6.25.0",
+    "babel-loader": "7.1.1",
+    "babel-preset-env": "1.5.2",
+    "webpack": "3.1.0"
+  }
+}
